@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-GDL6R%H%°46RAKFGSR2USVGTL%GRIPPE Informations Moins Groupe allemand Gerhard 
+Gecho "# salifs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/salifs/salifs.git
+git push -u origin main
